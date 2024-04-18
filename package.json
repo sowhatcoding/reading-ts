@@ -1,0 +1,13 @@
+{
+  "name": "reading-ts",
+  "version": "1.0.0",
+  "author": "sowhatcoding <sowhatcoding@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
